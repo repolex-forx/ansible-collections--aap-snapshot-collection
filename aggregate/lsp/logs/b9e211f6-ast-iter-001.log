@@ -1,0 +1,7 @@
+[2026-11-07T13:11:33Z] === AST ITERATION 1 START | repo=ansible-collections/aap-snapshot-collection sha=b9e211f6 ===
+[2026-11-07T13:11:33Z] [iter=1] PHASE START: ast repo=ansible-collections/aap-snapshot-collection sha=b9e211f6
+[2026-11-07T13:11:33Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T13:11:38Z] [iter=1] AST chunks built count=1 triples=74141
+[2026-11-07T13:11:38Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b9e211f686960e38e558a23ad2a00749d7dfe662/.complete
+[2026-11-07T13:11:38Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-11-07T13:11:38Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
